@@ -9,7 +9,7 @@
   "repository": "github:zaidmukaddam/epicbot",
   "bugs": "https://github.com/zaidmukaddam/epicbot/issues",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.17.0"
   },
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
