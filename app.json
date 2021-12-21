@@ -1,0 +1,7 @@
+{
+  "name": "EpicBot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/zaidmukaddam/epicbot",
+  "logo": "/logo.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
